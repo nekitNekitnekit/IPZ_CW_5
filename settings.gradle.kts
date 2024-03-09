@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IPZ_CW_5"
+rootProject.name = "Mironov_Nikita_CW_5"
 include(":app")
  
